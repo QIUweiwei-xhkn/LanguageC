@@ -1,0 +1,3 @@
+﻿  007-逻辑运算符.c
+E:\1-Kerwin\C\code\hello\hello\007-逻辑运算符.c(22,12): warning C4244: “*=”: 从“double”转换到“int”，可能丢失数据
+  hello.vcxproj -> E:\1-Kerwin\C\code\hello\x64\Debug\hello.exe
