@@ -8,7 +8,7 @@ int max(int x, int y)
     } else {
         z = y;
     }
-    //测试再提交
+    
     return z;
 }
 
