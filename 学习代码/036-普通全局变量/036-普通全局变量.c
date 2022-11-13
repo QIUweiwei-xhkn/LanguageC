@@ -1,4 +1,4 @@
-#include<stdio.h>
+m#include<stdio.h>
 #include"036-global.h"
 extern void sum(int x, int y);
 
